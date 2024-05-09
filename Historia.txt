@@ -12,5 +12,11 @@ Master 2
 =======
 Experimento 1
 
+<<<<<<< HEAD
 Master 1
 >>>>>>> 4b03bae (Exp 1)
+=======
+Experimento 2
+
+Master 1
+>>>>>>> 0ea28ad (Exp 2)
