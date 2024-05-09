@@ -5,6 +5,12 @@ viviendo en el mundo
 
 Hoy hablaremos de su historia.
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> 4b03bae (Exp 1)
